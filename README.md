@@ -1,4 +1,4 @@
-# primeNumbersCPP
+# Prime Numbers in C++
 
 Program for the search of prime numbers in C++
 
